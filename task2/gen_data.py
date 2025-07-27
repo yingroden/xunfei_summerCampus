@@ -139,13 +139,13 @@ if __name__ == "__main__":
     {"instruction": "填写生成的问题","output": "问题答案"}
     ...
     '''  
-    txt_path='./train_data/moreVariiesQA.txt'
+    txt_path='./train_data/moreVariiesQA_1000lines.txt'
     data = pd.read_excel('./data/fill_NaN_data.xlsx')
     # 定义信号处理函数
     signal.signal(signal.SIGALRM, handler=handle)
     # 定义超时时间为30秒
     timeout = 100
-    for i in range(100):
+    for i in range(300):
         try:
             # 随机选择1-10行数据, 经实验很难基本上输出不了稍微复杂的问题，绝大多数都是单字段问题
             # random_data = data.sample(n=random.randint(4,10), random_state=42)
