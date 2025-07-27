@@ -16,12 +16,12 @@ MODEL_CONFIGS = {
     },
     "deepseek":{
         "base_url":"https://api.deepseek.com",
-        "api_key":"sk-6eefc810cffc464782115a242d356b7f",
+        "api_key":"sk-xxx",
         "chat_model":"deepseek-chat",
     },
     "qwen": {
         "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-        "api_key": "sk-219b35d688eb40e2aeec7dd0aae84bda",
+        "api_key": "sk-xxx",
         "chat_model": "qwen-max",
     }
 }
