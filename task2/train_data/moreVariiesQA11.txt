@@ -1,0 +1,1001 @@
+{"instruction": "Z265次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在综合候乘中心，高架候车区东区候车且站台为4的车次有哪些？","output": "T231"}
+{"instruction": "K771/4次列车从呼和浩特到杭州的开点时间是几点？","output": "07:51"}
+{"instruction": "D93次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "C196, C162"}
+{"instruction": "从宝鸡到潼关的列车中，哪趟的开点最晚？","output": "C162"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "K2188, T117, 0T231"}
+{"instruction": "Z595次列车的始发站是哪里？","output": "杭州"}
+{"instruction": "高架候车区西区，开点时间在04:30至05:30之间的列车有哪些？","output": "Z595, Z127, K773/2"}
+{"instruction": "K773/2次列车在站停留时长是多久？","output": "53分钟"}
+{"instruction": "C202次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、开点时间晚于15:00的列车有哪些？","output": "C202, C185, C198"}
+{"instruction": "检票口为5B且到点时间早于16:00的车次有哪些？","output": "C185"}
+{"instruction": "Z595次列车的始发站是哪里？","output": "杭州"}
+{"instruction": "到点时间介于04:00至05:00之间且站台为5的车次有哪些？","output": "55516,T113"}
+{"instruction": "从厦门北出发，终点站为兰州的列车在哪个检票口检票？","output": "9B"}
+{"instruction": "从吉林到西安的列车是哪一班？","output": "K1573"}
+{"instruction": "K1573次列车的始发站是哪里？","output": "吉林"}
+{"instruction": "在高架候车区东区候车、检票口为8A的列车有哪些？","output": "K1573"}
+{"instruction": "从西安出发，开点时间早于19:30的列车有哪些？","output": "D128"}
+{"instruction": "T113次列车的检票口是哪个？","output": "3B"}
+{"instruction": "到点时间早于04:40且终点站为兰州的列车有哪些？","output": "T113, Z127"}
+{"instruction": "Z595次列车在杭州站停留多久？","output": "19分钟"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为5B的列车有哪些？","output": "D179 Z166"}
+{"instruction": "K4547/6次列车的始发站是哪里？","output": "成都西"}
+{"instruction": "在综合候乘中心高架候车区西区，开点时间介于00:10至00:30之间的列车有哪些？","output": "Z362,T308"}
+{"instruction": "检票口为1B且站台为2的列车是哪趟？","output": "K4547/6"}
+{"instruction": "C174次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间早于10:00的列车有哪些？","output": "C174, K8205"}
+{"instruction": "K8205次列车在车站的停留时长是多久？","output": "11分钟"}
+{"instruction": "Z306次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "在高架候车区东区候车、开点时间晚于21:30的列车有哪些？","output": "Z306,乌鲁木齐上海,21:40"}
+{"instruction": "K131次列车在深圳东站的停留时长是多久？","output": "9分钟"}
+{"instruction": "T197次列车的始发站和终点站分别是哪里？","output": "始发站是郑州，终点站是乌鲁木齐"}
+{"instruction": "在高架候车区西区候车、检票口为8A的列车有哪些？","output": "T197"}
+{"instruction": "D123次列车的到点和开点时间分别是几点？","output": "到点05:25，开点05:14"}
+{"instruction": "G658次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、开点时间晚于10:30的列车有哪些？","output": G658, 8355}
+{"instruction": "K2907次列车的到点时间是几点？","output": "10:50"}
+{"instruction": "始发站为榆林的列车车次是什么？","output": "K8165"}
+{"instruction": "在高架候车区西区候车且到点时间晚于05:20的列车有哪些？","output": "D123, K366, K2095/8"}
+{"instruction": "站台为5且检票口是5A的列车终点站是哪里？","output": "西安"}
+{"instruction": "C222次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、高架候车区东区检票且开点时间晚于12:00的列车有哪些？","output": "C222,K214,K367"}
+{"instruction": "K214次列车的站台号是多少？","output": "4"}
+{"instruction": "K5475次列车的始发站是哪里？","output": "神木"}
+{"instruction": "在综合候乘中心候车、高架候车区东区、检票口为5B的列车有哪些？","output": "K5475"}
+{"instruction": "从西安到沈阳北的列车中，哪趟开点时间最早？","output": "K2046"}
+{"instruction": "T113次列车的始发站是哪里？","output": "杭州"}
+{"instruction": "候车区在高架候车东区且站台为5的车次有哪些？","output": "T113"}
+{"instruction": "到点时间晚于04:20的列车有哪些？","output": Z595, Z127}
+{"instruction": "0T232次列车的始发站是哪里？","output": "莲湖"}
+{"instruction": "在综合候乘中心候车、开点时间晚于16:40的列车有哪些？","output": "K559/8,G657,G666"}
+{"instruction": "G657次列车的到点时间是几点？","output": "16:59"}
+{"instruction": "高架候车区东区检票口为8B的列车是哪一班？","output": "K126"}
+{"instruction": "T269次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、检票口为1B的列车有哪些？","output": "T269"}
+{"instruction": "K305次列车的到点时间是几点？","output": "22:25"}
+{"instruction": "57104次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、高架候车区东区，且开点时间晚于07:00的列车有哪些？","output": "K2097/6"}
+{"instruction": "综合候乘中心，到点时间介于06:00至08:00之间且站台为2的车次有哪些？","output": "57104"}
+{"instruction": "G665次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在高架候车区东区候车、检票口为8A的列车有哪些？","output": "C200"}
+{"instruction": "从西安出发，终点站为呼和浩特东的列车开点时间是几点？","output": "22:47"}
+{"instruction": "C201次列车的始发站是哪里？","output": "神木"}
+{"instruction": "在综合候乘中心候车、且检票口为8B的列车有哪些？","output": "C201"}
+{"instruction": "到点时间介于06:00至06:30之间且站台为2的车次有哪些？","output": "OK365"}
+{"instruction": "K1086次列车的始发站是哪里？","output": "银川"}
+{"instruction": "在高架候车区东区候车、检票口为9B的列车有哪些？","output": "K1086"}
+{"instruction": "C197次列车在本站的停留时长是多久？","output": "11分钟"}
+{"instruction": "C241/4次列车的始发站是哪里？","output": "阳平关"}
+{"instruction": "在综合候乘中心候车、高架候乘区东区，且开点时间晚于16:30的列车有哪些？","output": C241/4, OT269}
+{"instruction": "OT269次列车在站停留时长是多久？","output": 11分钟}
+{"instruction": "Z180次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "在综合候乘中心候车、发车时间晚于17:50的列车有哪些？","output": "C164, Z180, K420"}
+{"instruction": "从兰州到北京西的列车中，哪趟运行时间最短？","output": "数据不完整"}
+{"instruction": "T55次列车的检票口是哪个？","output": "4A"}
+{"instruction": "在高架候车区西区候车且到点时间介于05:00至05:20之间的车次有哪些？","output": "T55,K1085,T197"}
+{"instruction": "T197次列车在站停留了多久？","output": "8分钟"}
+{"instruction": "Z595次列车的始发站是哪里？","output": "杭州"}
+{"instruction": "在高架候车区西区候车、开点时间早于05:00的列车有哪些？","output": "Z595: 开点 04:52"}
+{"instruction": "K773/2次列车在站台停留时长是多久？","output": "53分钟"}
+{"instruction": "D177次列车的始发站是哪里？","output": "呼和浩特东"}
+{"instruction": "在高架候车区东区候车、开点时间晚于16:00的列车有哪些？","output": "D177, C169, C72, C241/4"}
+{"instruction": "C169次列车从韩城到潼关的开点时间是几点？","output": "16:40"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "T117, 0T231, Y800"}
+{"instruction": "检票口为5B的列车有哪些？","output": "K559/8, G666"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": Z41, K2188}
+{"instruction": "D179次列车的始发站是哪里？","output": "鄂尔多斯"}
+{"instruction": "在综合候乘中心候车、开点时间晚于20:30的列车有哪些？","output": "D44, Z166, K125"}
+{"instruction": "Z166次列车的到点时间是几点？","output": "20:38"}
+{"instruction": "Z165次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于09:00的列车有哪些？","output": "C229/32,K84"}
+{"instruction": "D6852次列车在本站的停留时长是多久？","output": 11}
+{"instruction": "在综合候乘中心候车、发车时间晚于16:00的列车有哪些？","output": "K2046, D177, C169"}
+{"instruction": "Z265次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在综合候乘中心候车、发车时间晚于07:50的列车有哪些？","output": "G654"}
+{"instruction": "从西安到北京西的列车中，哪趟开点时间最早？","output": "G654"}
+{"instruction": "D30次列车的始发站是哪里？","output": "兰州"}
+{"instruction": "在高架候车东区，检票口为3A的列车有哪些？","output": "D30"}
+{"instruction": "从北京西到兰州的列车中，哪趟到达时间最早？","output": "D29"}
+{"instruction": "D178次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间晚于22:50的列车有哪些？","output": "D178 C200 K1309"}
+{"instruction": "在综合候乘中心候车、发车时间晚于20:00的列车有哪些？","output": "C177, K1574, T42"}
+{"instruction": "Z273次列车的始发站是哪里？","output": "青岛北"}
+{"instruction": "在高架候车区东区候车、开点时间早于08:00的列车有哪些？","output": Z273, K1685}
+{"instruction": "从乌海西到宝鸡的列车中，哪趟停留时间最短？","output": "K1685"}
+{"instruction": "K520次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在高架候车区东区候车、检票口为7A的列车有哪些？","output": "K520"}
+{"instruction": "从三民村到西安的列车中，哪趟开点时间最早？","output": "0T248"}
+{"instruction": "K4547/6次列车的始发站是哪里？","output": "成都西"}
+{"instruction": "在综合候乘中心候车、检票口为1B的列车有哪些？","output": "K4547/6"}
+{"instruction": "从乌鲁木齐出发，在00:10到00:28之间开点的列车有哪些？","output": "Z362,T308"}
+{"instruction": "C187次列车的始发站是哪里？","output": "延安"}
+{"instruction": "在综合候乘中心高架候车区东区候车，且开点时间晚于19:00的列车有哪些？","output": "C187, C238"}
+{"instruction": "C238次列车在西安站停留多久？","output": "数据不完整"}
+{"instruction": "Z179次列车的检票口是哪里？","output": "2B"}
+{"instruction": "在综合候乘中心，到点时间介于06:00至08:00之间且站台为2的车次有哪些？","output": "Z179,57104"}
+{"instruction": "T247次列车的始发站是哪里？","output": "武昌"}
+{"instruction": "K1086次列车的始发站是哪里？","output": "银川"}
+{"instruction": "在高架候车区东区候车、检票口为7B的列车有哪些？","output": "C197"}
+{"instruction": "K1573次列车的停留时长是多久？","output": "11分钟"}
+{"instruction": "C182次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间早于07:30的列车有哪些？","output": "K1685, C182, OG654"}
+{"instruction": "K2097/6次列车从到达到开车停留了多久？","output": 29分钟}
+{"instruction": "Z362次列车的始发站是哪里？","output": 乌鲁木齐}
+{"instruction": "在高架候车区西区候车、检票口为1A的列车有哪些？","output": T308}
+{"instruction": "从兰州出发，终点站为上海的列车是哪一趟？","output": D218}
+{"instruction": "C181次列车的始发站是哪里？","output": "延安"}
+{"instruction": "在综合候乘中心候车、且检票口为9B的列车有哪些？","output": "C243/2"}
+{"instruction": "K1041次列车在车站停留多久？","output": "10分钟"}
+{"instruction": "D94次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心高架候车区东区、开点时间晚于15:00的列车有哪些？","output": "C202,C185"}
+{"instruction": "C185次列车的到点与开点之间相隔多长时间？","output": "11分钟"}
+{"instruction": "C235/4次列车的始发站是哪里？","output": "铜川东"}
+
+{"instruction": "在综合候乘中心候车、检票口为5B的列车有哪些？","output": "C235/4,C188"}
+
+{"instruction": "T118次列车在车站停留了多久？","output": 9分钟}
+{"instruction": "Z165次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于09:20的列车有哪些？","output": "K1310, Z165"}
+{"instruction": "检票口为5B且开点时间缺失的车次有哪些？","output": "数据不完整"}
+{"instruction": "Z378次列车的始发站是哪里？","output": "西宁"}
+{"instruction": "在高架候车区东区候车且站台为5的列车有哪些？","output": "K5476, C165"}
+{"instruction": "C165次列车在本站的停留时长是多久？","output": 11分钟}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "D180, K8204"}
+{"instruction": "D128次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、检票口为5A的列车有哪些？","output": "K8206"}
+{"instruction": "C235/4次列车的到点与开点分别是几点？","output": "到点19:37, 开点20:02"}
+{"instruction": "C236次列车的检票口是哪个？","output": 8A}
+{"instruction": "发车时间晚于14:50且候车区为综合候乘中心高架候车区东区的列车有哪些？","output": C236, D94, C202}
+{"instruction": "从西安出发，终点站为上海的列车是哪一趟？","output": D94}
+{"instruction": "在综合候乘中心候车、发车时间晚于12:00的列车有哪些？","output": "K214, K367, C195"}
+{"instruction": "Z265次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "没有符合条件的列车"}
+{"instruction": "从兰州到北京西的列车中，哪趟运行时间最短？","output": "数据不完整"}
+{"instruction": "T232次列车的检票口是哪里？","output": "1A"}
+{"instruction": "在综合候乘中心候车、发车时间晚于17:00的列车有哪些？","output": "T232, 8375, 0T41, K520"}
+{"instruction": "从西安到北京西的列车中，哪趟开点最早？","output": "T232"}
+{"instruction": "K177次列车的始发站是哪里？","output": "郑州"}
+{"instruction": "在综合候乘中心候车、站台为2的列车有哪些？","output": "K177 G665"}
+{"instruction": "Z274次列车的始发站是哪里？","output": "西宁"}
+{"instruction": "在综合候乘中心候车、发车时间晚于10:00的列车有哪些？","output": "Z274, Y809, C181"}
+{"instruction": "从渭南到西安的列车中，哪趟开点时间最早？","output": "8351"}
+{"instruction": "K1685次列车的始发站是哪里？","output": "乌海西"}
+{"instruction": "在综合候乘中心候车、开点时间介于07:00至07:30之间的列车有哪些？","output": "K1685, C182, OG654"}
+{"instruction": "在综合候乘中心高架候车区东区候车、检票口为5A或5B的列车有哪些？","output": 8356, K1297}
+{"instruction": "OT269次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间晚于16:30的列车有哪些？","output": "OT269,0T232"}
+{"instruction": "从莲湖到西安的列车中，哪趟到达时间最早？","output": "0T232"}
+{"instruction": "G657次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在高架候车区东区候车、且站台为5的列车有哪些？","output": "G657,G666"}
+{"instruction": "0T232次列车从到达至开出的时间间隔是多少？","output": "11分钟"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为2A的列车是哪一班？","output": "K4545/8"}
+{"instruction": "Z362次列车的检票口是哪个？","output": "5B"}
+{"instruction": "在综合候乘中心候车、站台为5的列车有哪些？","output": "Z362,T308"}
+{"instruction": "D218次列车从到点到开点的时间间隔是多少分钟？","output": "11"}
+{"instruction": "从西安到北京西的列车有哪些？","output": "G666, T232"}
+{"instruction": "在高架候车区东区检票口为5B的列车是哪趟？","output": "G666"}
+{"instruction": "开点时间早于17:30的列车有哪些？","output": "G666"}
+{"instruction": "在综合候乘中心候车、发车时间晚于10:00的列车有哪些？","output": "C167/70, 0K214, K368"}
+{"instruction": "在综合候乘中心候车、发车时间晚于16:00的列车有哪些？","output": G657, G666, T232, 8375}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": Z41, 上海至乌鲁木齐, 08:25开}
+{"instruction": "在综合候乘中心候车、发车时间晚于13:00的列车有哪些？","output": "C186, C173, 7007"}
+{"instruction": "D128次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心高架候车区东区候车、检票口为5A的列车有哪些？","output": "K8206"}
+{"instruction": "T118次列车从兰州到上海，在本站的停留时长是多久？","output": 9分钟}
+{"instruction": "从深圳出发的列车中，哪趟列车的开点时间最早？","output": "K1349 12:59"}
+{"instruction": "T232次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心，高架候车区东区，且检票口为1A或2A的列车有哪些？","output": "T232, 8375"}
+{"instruction": "从西安到北京西的列车中，哪趟开点时间最早？","output": "T232"}
+{"instruction": "在综合候乘中心候车、发车时间晚于07:30的列车有哪些？","output": "K771/4, Z265"}
+{"instruction": "G658次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、检票口为7B的列车有哪些？","output": "G658"}
+{"instruction": "C167/70次列车的终点站是哪里？","output": "韩城"}
+{"instruction": "K520次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在综合候乘中心候车、开点时间晚于17:50的列车有哪些？","output": "K520, 0T248"}
+{"instruction": "从三民村到西安的列车中，哪趟停留时长最短？","output": "0T248"}
+{"instruction": "C178次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、开点时间晚于13:40的列车有哪些？","output": "K8168, C178, C231"}
+{"instruction": "从商南到西安的列车中，哪趟到达西安的时间最早？","output": "7007"}
+{"instruction": "K1297次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在高架候车区东区候车、检票口为5B的列车有哪些？","output": "K1297,Z106"}
+{"instruction": "Z106次列车在广州站的停留时长是多久？","output": "数据不完整"}
+{"instruction": "K2097/6次列车的站台是哪个？","output": "3"}
+{"instruction": "到点时间介于07:00至07:30之间且站台为2的车次有哪些？","output": "C182"}
+{"instruction": "在综合候乘中心，高架候车区东区候车、发车时间晚于20:00的列车有哪些？","output": "K1574, T42, T56"}
+{"instruction": "T56次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "站台为5且开点时间介于20:15至20:30之间的列车有哪些？","output": "K1574, T42"}
+{"instruction": "车次为8355的列车在哪一站台发车？","output": "2"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为5A的列车有哪些？","output": "K2907"}
+{"instruction": "C178次列车的始发站是哪里？","output": "西安"}
+{"instruction": "高架候车区东区，检票口为2A的列车有哪些？","output": "C231"}
+{"instruction": "从西安出发，在综合候乘中心候车、开点时间早于14:30的列车有哪些？","output": "C178 K1350"}
+{"instruction": "D175次列车的始发站是哪里？","output": "达州"}
+{"instruction": "高架候车区东区、检票口为4A或5A的列车有哪些？","output": "D219, D175"}
+{"instruction": "开点时间在20:10至20:20之间的列车有哪些？","output": "D219, D175"}
+{"instruction": "Z306次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "在高架候车区东区候车、开点时间早于21:40的列车有哪些？","output": "K131,Z306,8353"}
+{"instruction": "从深圳东到兰州的列车中，哪趟停留时长最长？","output": "数据不完整"}
+{"instruction": "T308次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "检票口为2A且终点站为上海的列车有哪些？","output": "D218"}
+{"instruction": "K178次列车在车站停留了多久？","output": "14分钟"}
+{"instruction": "开点时间在17:30之后的列车有哪些？","output": "0T41 K520"}
+{"instruction": "从榆林到西安的列车有哪些？","output": "7005 C197"}
+{"instruction": "在高架候车区东区，检票口为8A的列车是哪一趟？","output": "K1573"}
+{"instruction": "开点时间介于19:00至20:00之间，站台为1的列车是哪趟？","output": "K1086"}
+{"instruction": "发车时间晚于13:00的列车有哪些？","output": "K467, C173, 7007"}
+{"instruction": "K420次列车的始发站是哪里？","output": "兰州"}
+{"instruction": "在综合候乘中心候车、发车时间晚于18:00且早于19:00的列车有哪些？","output": "K420, C163, T248, 0T42"}
+{"instruction": "从西安到宝鸡的列车中，哪趟开点时间最早？","output": "C163"}
+{"instruction": "C162次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在高架候车区东区候车、检票口为5A的列车有哪些？","output": "D127"}
+{"instruction": "从西安到宝鸡，09:00后发车的列车有哪些？","output": "C183"}
+{"instruction": "K305次列车的始发站是哪里？","output": "温州"}
+{"instruction": "在综合候乘中心高架候车区东区、检票口为1A的列车有哪些？","output": "K305"}
+{"instruction": "从西安出发的列车中，哪趟列车的开点时间最早？","output": "K126"}
+{"instruction": "Z136次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "在高架候车区东区候车、检票口为5B的列车有哪些？","output": "Z136,C166"}
+{"instruction": "T269次列车从西安出发后，到达喀什的时间是几点？","output": "22:11"}
+{"instruction": "K8165次列车的始发站是哪里？","output": "榆林"}
+{"instruction": "在高架候车区西区候车、检票口为4A的列车有哪些？","output": "D123"}
+{"instruction": "从乌鲁木齐到西安的列车中，哪趟到点时间最晚？","output": "K366"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "Z41, K2188"}
+{"instruction": "K8203次列车的始发站是哪里？","output": "府谷"}
+{"instruction": "在综合候乘中心候车、高架候车区东区、且检票口为1A的列车有哪些？","output": "Z361"}
+{"instruction": "C201次列车从到点到开点停留了多久？","output": "11分钟"}
+{"instruction": "C164次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在高架候车区东区候车、开点时间晚于18:00的列车有哪些？","output": Z180, K420}
+{"instruction": "从兰州到扬州的列车是哪一趟？","output": "K420"}
+{"instruction": "T308次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "在综合候乘中心候车、站台为5的列车有哪些？","output": "T308, T198"}
+{"instruction": "K178次列车在该站停留时长是多久？","output": 14}
+{"instruction": "Z595次列车的始发站是哪里？","output": "杭州"}
+{"instruction": "在高架候车区西区，到点时间介于04:30至05:00之间的车次有哪些？","output": "Z595, Z127, K773/2, Z377"}
+{"instruction": "K773/2次列车在站台停留了多久？","output": 53分钟}
+{"instruction": "在综合候乘中心，到点时间介于06:00至08:00之间且站台为2的车次有哪些？","output": "OK365"}
+{"instruction": "K520次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在综合候乘中心候车、开点时间晚于17:50的列车有哪些？","output": "K520,0T248"}
+{"instruction": "从三民村到西安的列车中，哪趟停留时间最短？","output": "0T248"}
+{"instruction": "C177次列车的检票口是哪里？","output": "7A"}
+{"instruction": "在综合候乘中心高架候车区东区、发车时间晚于20:00的列车有哪些？","output": "K1574,T42"}
+{"instruction": "站台为5且开点时间为20:15的列车是哪趟？","output": "K1574"}
+{"instruction": "K84次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "高架候车区东区且检票口为6B的列车有哪些？","output": "D176"}
+{"instruction": "开点时间晚于09:40的列车有哪些？","output": "K84 C174"}
+{"instruction": "G657次列车的始发站是哪里？","output": 北京西}
+{"instruction": "在综合候乘中心高架候车区东区候车、检票口为5A的列车有哪些？","output": 0T232}
+{"instruction": "K559/8次列车的到点与开点之间相隔多久？","output": 20分钟}
+{"instruction": "K2095/8次列车的始发站是哪里？","output": "大同"}
+{"instruction": "检票口为5B且站台为1的车次有哪些？","output": "K2095/8"}
+{"instruction": "Z361次列车在综合候乘中心的开点时间是几点？","output": 06:09}
+{"instruction": "Z127次列车的始发站是哪里？","output": "厦门北"}
+{"instruction": "在高架候车区西区候车、开点时间晚于05:00的列车有哪些？","output": "K773/2, T55"}
+{"instruction": "从上海到西宁的列车在哪一站台？","output": "2"}
+{"instruction": "T197次列车的始发站是哪里？","output": "郑州"}
+{"instruction": "开点时间在05:14且检票口为4A的车次是哪个？","output": "D123"}
+{"instruction": "在高架候车区西区候车、站台为2的列车有哪些？","output": "K8165"}
+{"instruction": "T56次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在高架候车区东区候车、开点时间早于20:20的列车有哪些？","output": "D219 D175"}
+{"instruction": "从达州到西安，经过检票口5A的列车在哪一站台停靠？","output": "5"}
+{"instruction": "K420次列车的始发站是哪里？","output": "兰州"}
+{"instruction": "在高架候车区东区候车、检票口为5A的列车有哪些？","output": "K420"}
+{"instruction": "K420次列车在兰州站的停留时长是多久？","output": 8分钟}
+{"instruction": "C166次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为5B的列车有哪些？","output": "C166"}
+{"instruction": "K305次列车的停留时长是多久？","output": "10分钟"}
+{"instruction": "K366次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "到点时间介于05:20至05:40之间且站台为1的车次有哪些？","output": "K2095/8"}
+{"instruction": "K2187次列车在到达后停留多久发车？","output": "10分钟"}
+{"instruction": "从西安到汉中的列车有哪些？","output": "K8205 D6857"}
+{"instruction": "0T42次列车的始发站是哪里？","output": "三桥"}
+{"instruction": "C72次列车的站台是哪个？","output": "5"}
+{"instruction": "在高架候车区东区候车，且开点时间晚于16:30的列车有哪些？","output": "C72, C241/4"}
+{"instruction": "OT269次列车从西安出发到莲湖的停留时长是多久？","output": 数据不完整}
+{"instruction": "Z151次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在高架候车东区候车、开点时间早于04:00的列车有哪些？","output": "55516"}
+{"instruction": "从杭州出发，终点站为乌鲁木齐的列车是哪一趟？","output": "Z595"}
+{"instruction": "K1574次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车且开点时间早于20:30的列车有哪些？","output": "K1574,T42"}
+{"instruction": "C243/2次列车的始发站是哪里？","output": "韩城"}
+{"instruction": "在综合候乘中心高架候车区东区候车、开点时间早于11:00的列车有哪些？","output": "C243/2 C184 G658 8355"}
+{"instruction": "从西安出发的列车中，哪趟到达北京西？","output": "G658"}
+{"instruction": "从兰州出发的列车中，哪趟车的检票口是3A？","output": "K306"}
+{"instruction": "T307次列车的检票口是哪个？","output": "7A"}
+{"instruction": "在综合候乘中心，高架候车区东区，且站台为5的列车有哪些？","output": "K361"}
+{"instruction": "开点时间晚于06:20的列车有哪些？","output": "K361"}
+{"instruction": "C198次列车的始发站是哪里？","output": 西安}
+{"instruction": "在综合候乘中心候车、开点时间晚于15:50的列车有哪些？","output": C198,7008}
+{"instruction": "K5475次列车从神木到西安的终点站是哪里？","output": 西安}
+{"instruction": "K1685次列车的始发站是哪里？","output": 乌海西}
+{"instruction": "在综合候乘中心，高架候车区东区候车、且开点时间早于07:20的列车有哪些？","output": K1685,OG654}
+{"instruction": "Z135次列车在本站的停留时长是多久？","output": 10分钟}
+{"instruction": "8353次列车的始发站是哪里？","output": "渭南"}
+{"instruction": "在高架候车区东区候车、检票口为7A的列车有哪些？","output": "Z266"}
+{"instruction": "K655/8次列车的到点时间是几点？","output": 21:42}
+{"instruction": "K131次列车的始发站是哪里？","output": "深圳东"}
+{"instruction": "在高架候车区东区候车、检票口为7A的列车有哪些？","output": "Z266"}
+{"instruction": "K131次列车在深圳东站的停留时长是多久？","output": "数据不完整"}
+{"instruction": "K420次列车的始发站是哪里？","output": "兰州"}
+{"instruction": "高架候车区东区，检票口为5B的列车有哪些？","output": "C163,0T42"}
+{"instruction": "K420次列车在兰州站的停留时长是多久？","output": 8分钟}
+{"instruction": "C162次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在高架候车区东区候车、检票口为5A的列车有哪些？","output": "D127"}
+{"instruction": "K1310次列车在站台停留了多久？","output": 9分钟}
+{"instruction": "Z305次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "Z305 D220 Z231 D93"}
+{"instruction": "Z305次列车在上海站的停留时长是多久？","output": 9分钟}
+{"instruction": "C198次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间早于16:00的列车有哪些？","output": "K5475, 7008"}
+{"instruction": "从西安出发，到点时间最早的列车是哪趟？","output": "C198"}
+{"instruction": "D123次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在高架候车区西区，到点时间介于05:00至05:30之间且站台为2的车次有哪些？","output": "K8165"}
+{"instruction": "K1085次列车在长沙站的停留时长是多久？","output": 23}
+{"instruction": "发车时间晚于08:00且站台为1的列车有哪些？","output": "Z41"}
+{"instruction": "K2095/8次列车的始发站是哪里？","output": "大同"}
+{"instruction": "在高架候车区西区候车、检票口为5B的列车有哪些？","output": "K2095/8,K8203"}
+{"instruction": "Z361次列车若延误45分钟，新的开点时间是几点？","output": 06:54}
+{"instruction": "8355次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间晚于10:40的列车有哪些？","output": "8355,K2907,C167/70,0K214"}
+{"instruction": "C167/70次列车在本站停留时长是多久？","output": 20分钟}
+{"instruction": "Z166次列车的始发站是哪里？","output": "拉萨"}
+{"instruction": "在高架候车区东区候车、检票口为1B的列车有哪些？","output": "D44"}
+{"instruction": "从西安出发的列车中，哪趟到达北京西？","output": "D44"}
+{"instruction": "D177次列车的始发站是哪里？","output": "呼和浩特东"}
+{"instruction": "高架候车区东区候车、站台为2的列车有哪些？","output": "D177 C241/4"}
+{"instruction": "C169次列车的到点时间是几点？","output": "16:18"}
+{"instruction": "C195次列车的始发站是哪里？","output": "榆林"}
+{"instruction": "在综合候乘中心候车、高架候车区东区且开点时间晚于12:00的列车有哪些？","output": "K557/60,C161,K365"}
+{"instruction": "C161次列车从到点到开点停留多长时间？","output": 6分钟}
+{"instruction": "Z41次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "Z41 K2188"}
+{"instruction": "从西宁到上海的列车中，哪趟到达时间为08:26？","output": "K2188"}
+{"instruction": "C243/2次列车的始发站是哪里？","output": 韩城}
+{"instruction": "在高架候车区东区候车、且开点时间早于10:40的列车有哪些？","output": OG658, K1041, C184}
+{"instruction": "K1041次列车在站内的停留时长是多久？","output": 10分钟}
+{"instruction": "D123次列车的检票口是哪个？","output": "4A"}
+{"instruction": "始发站为上海且终点站为西安的车次有哪些？","output": "D123"}
+{"instruction": "K2095/8次列车的开点时间若延误1小时15分钟，新的开点时间是几点？","output": 07:06}
+{"instruction": "Z273次列车的始发站是哪里？","output": "青岛北"}
+{"instruction": "在综合候乘中心候车、开点时间早于07:15的列车有哪些？","output": "57104 Z273"}
+{"instruction": "到点时间介于06:50至07:10之间且站台为4的车次有哪些？","output": "Z273"}
+{"instruction": "Z135次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在综合候乘中心候车、发车时间晚于07:30的列车有哪些？","output": "Z105 K228"}
+{"instruction": "K228次列车在广州站的停留时长是多久？","output": "13分钟"}
+{"instruction": "K419次列车的始发站是哪里？","output": 扬州}
+{"instruction": "在高架候车区东区候车、检票口为5B的列车有哪些？","output": K1298,C222}
+{"instruction": "OK366次列车的到点和开点时间分别是多少？","output": 到点12:07,开点11:56}
+{"instruction": "0T41次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间晚于17:50的列车有哪些？","output": "K520,57108,0T248"}
+{"instruction": "从三民村到西安的列车中，哪趟开点时间最早？","output": "0T248"}
+{"instruction": "Z166次列车的始发站是哪里？","output": "拉萨"}
+{"instruction": "在高架候车区东区候车、检票口为2A的列车有哪些？","output": "Z378"}
+{"instruction": "K125次列车的停留时长是多久？","output": "11分钟"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": Y800 Z305}
+{"instruction": "0T270次列车的始发站是哪里？","output": "莲湖"}
+{"instruction": "在高架候车区东区候车、开点时间介于20:40至21:00之间的列车有哪些？","output": "0T270,G659"}
+{"instruction": "Z42次列车的检票口是哪个？","output": "7B"}
+{"instruction": "Z42次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "在高架候车区东区候车、开点时间晚于21:00的列车有哪些？","output": "Z42 K83"}
+{"instruction": "K83次列车在广州站的停留时长是多久？","output": "数据不完整"}
+{"instruction": "C169次列车的始发站是哪里？","output": 韩城}
+{"instruction": "在高架候车区东区候车，检票口为9B的列车有哪些？","output": C169 C72}
+{"instruction": "D30次列车的始发站是哪里？","output": "兰州"}
+{"instruction": "到点时间介于01:00至04:00之间且站台为1的车次有哪些？","output": "D29"}
+{"instruction": "从兰州到北京西的列车中，哪趟开点时间最早？","output": "D30"}
+{"instruction": "C197次列车的始发站是哪里？","output": "榆林"}
+{"instruction": "在综合候乘中心候车、高架候车区东区，且开点时间早于19:30的列车有哪些？","output": "C197 D128 K8206"}
+{"instruction": "K8206次列车在西安站停留多久？","output": "11分钟"}
+{"instruction": "C199次列车在哪一站台发车？","output": "1"}
+{"instruction": "在综合候乘中心高架候车区东区，开点时间介于14:00至15:00之间的列车有哪些？","output": "C199,C236,K2045"}
+{"instruction": "从西安出发的列车有哪些？","output": "C236,D94"}
+{"instruction": "G666次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、且检票口为5B的列车有哪些？","output": "G666,0T41"}
+{"instruction": "从西安到北京西的列车中，哪趟到达时间最早？","output": "G666"}
+{"instruction": "K1085次列车的始发站是哪里？","output": "长沙"}
+{"instruction": "在高架候车区西区候车、开点时间介于05:00至05:30之间的列车有哪些？","output": "T197 K1085 D123"}
+{"instruction": "K8165次列车在站停留时长是多久？","output": 16分钟}
+{"instruction": "K84次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在高架候车区东区候车，且站台为5的列车有哪些？","output": "D176,C174"}
+{"instruction": "C174次列车的到点时间是什么时候？","output": "09:55"}
+{"instruction": "K557/60次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、且站台为5的列车有哪些？","output": "C161 K365"}
+{"instruction": "K1349次列车的停留时长是多久？","output": 11分钟}
+{"instruction": "Z378次列车的始发站是哪里？","output": "西宁"}
+{"instruction": "在高架候车区东区候车、检票口为7A的列车车次是什么？","output": "C165"}
+{"instruction": "K5476次列车的停留时长是多久？","output": 11分钟}
+{"instruction": "T197次列车的检票口是哪里？","output": "8A"}
+{"instruction": "到点时间介于05:10至05:30之间且站台为5的车次有哪些？","output": "D123 K366"}
+{"instruction": "K8165次列车在本站停留多久？","output": 16分钟}
+{"instruction": "Z151次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "高架候车东区，检票口为3B的列车有哪些？","output": "T113"}
+{"instruction": "从杭州出发的列车中，哪趟到达兰州？","output": "T113"}
+{"instruction": "T248次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间晚于18:50的列车有哪些？","output": "C187,57101"}
+{"instruction": "从延安到宝鸡的列车中，哪趟在西安站的停留时长是多久？","output": "数据不完整"}
+{"instruction": "D218次列车的始发站是哪里？","output": "兰州"}
+{"instruction": "在高架候车区西区候车、且检票口为7A的列车有哪些？","output": "T198"}
+{"instruction": "K178次列车在车站停留时长是多久？","output": 14}
+{"instruction": "OT269次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、站台为3的列车有哪些？","output": "C237"}
+{"instruction": "到点时间介于16:40至16:50之间的车次有哪些？","output": "OT269,0T232"}
+{"instruction": "Z41次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "Z41, K2188"}
+{"instruction": "K2188次列车在上海站的停留时长是多久？","output": 数据不完整
+{"instruction": "K1573次列车的始发站是哪里？","output": "吉林"}
+{"instruction": "在高架候车区东区候车且站台为5的列车有哪些？","output": "C197 D128"}
+{"instruction": "开点时间晚于19:00的列车有哪些？","output": "K1573 C197 D128"}
+{"instruction": "G657次列车的始发站是哪里？","output": 北京西}
+{"instruction": "在综合候乘中心候车、开点时间晚于16:30的列车有哪些？","output": K559/8 G657}
+{"instruction": "0T232次列车在莲湖站的停留时长是多久？","output": 数据不完整}
+{"instruction": "Z274次列车的始发站是哪里？","output": "西宁"}
+{"instruction": "在综合候乘中心候车、发车时间晚于10:00的列车有哪些？","output": "Z274 Y809 8351 C181"}
+{"instruction": "从延安到西安的列车中，哪趟开点时间最早？","output": "C181"}
+{"instruction": "Z105次列车的始发站是哪里？","output": "济南"}
+{"instruction": "在综合候乘中心候车、发车时间晚于07:38的列车有哪些？","output": "K771/4"}
+{"instruction": "高架候车区东区检票口为5B的列车到点是什么时候？","output": "07:35"}
+{"instruction": "K8205次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、开点时间晚于09:50的列车有哪些？","output": "K1042 D6857"}
+{"instruction": "从西安到汉中的列车中，哪趟最早出发？","output": "K8205"}
+{"instruction": "Z106次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "检票口为2A且到点时间为21:26的车次有哪些？","output": "Z306"}
+{"instruction": "K131次列车在站停留多久？","output": "9分钟"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": 0T231,Y800}
+{"instruction": "T248次列车的始发站是哪里？","output": 西安}
+{"instruction": "在高架候车区东区候车、检票口为1B的列车有哪些？","output": T248}
+{"instruction": "C187次列车从到点到开点停留了多久？","output": 19分钟}
+{"instruction": "C241/4次列车的始发站是哪里？","output": "阳平关"}
+{"instruction": "在高架候车区东区候车、检票口为9B的列车有哪些？","output": "C169 C72"}
+{"instruction": "从韩城到潼关，开点时间是16:40的列车有哪些？","output": "C169 C72"}
+{"instruction": "T197次列车的检票口是哪里？","output": 8A}
+{"instruction": "在高架候车区西区候车、站台为2的列车有哪些？","output": K8165}
+{"instruction": "D123次列车从到点到开点停留了多久？","output": 11分钟}
+{"instruction": "K8206次列车的始发站是哪里？","output": "汉中"}
+{"instruction": "在高架候车区东区候车、检票口为5A的列车有哪些？","output": "K8206"}
+{"instruction": "T118次列车在本站停留时长是多久？","output": "9分钟"}
+{"instruction": "C161次列车的始发站是哪里？","output": "潼关"}
+{"instruction": "在综合候乘中心高架候车区东区，且检票口为9B的列车有哪些？","output": "C161"}
+{"instruction": "K1349次列车在本站的停留时长是多久？","output": "11分钟"}
+{"instruction": "C229/32次列车的始发站是哪里？","output": "安康"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00且终点站为广州的列车有哪些？","output": "K84"}
+{"instruction": "从西安到达州的D176次列车，在哪个站台停靠？","output": "5"}
+{"instruction": "Z180次列车的始发站是哪里？","output": 乌鲁木齐}
+{"instruction": "在高架候车区东区候车、开点时间晚于17:50的列车有哪些？","output": C164 Z180 K420}
+{"instruction": "K420次列车从兰州到扬州的途中，停靠西安站的时间是多久？","output": 数据不完整}
+{"instruction": "K125次列车的始发站是哪里？","output": "长春"}
+{"instruction": "在高架候车区东区候车、检票口为8B的列车有哪些？","output": "K5476"}
+{"instruction": "从西安出发，终点站为神木的列车开点时间是什么时候？","output": "20:53"}
+{"instruction": "K1310次列车的始发站是哪里？","output": "西宁"}
+{"instruction": "在综合候乘中心候车、开点时间晚于09:20的列车有哪些？","output": "Z165 K1310"}
+{"instruction": "从西安到莲湖的0K213次列车，在站停留时长是多久？","output": 11分钟}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": K519}
+{"instruction": "K1349次列车的始发站是哪里？","output": "深圳"}
+{"instruction": "在综合候乘中心高架候车区东区候车、开点时间晚于12:50的列车有哪些？","output": "C186 K467"}
+{"instruction": "K467次列车在深圳站的停留时长是多久？","output": "数据不完整"}
+{"instruction": "T307次列车的始发站是哪里？","output": 南昌}
+{"instruction": "在综合候乘中心，高架候车区东区，且开点时间晚于06:20的列车有哪些？","output": K361,K306}
+{"instruction": "从上海到银川的列车中，哪趟列车的开点时间最早？","output": K361}
+{"instruction": "K84次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在综合候乘中心候车、站台为5的列车有哪些？","output": "D176 C174"}
+{"instruction": "K362次列车从到达至离开之间停留了多久？","output": 22分钟}
+{"instruction": "Y801次列车的始发站是哪里？","output": 潼关}
+{"instruction": "在高架候车区东区候车、检票口为7A的列车有哪些？","output": C177}
+{"instruction": "到点时间介于20:00至20:15之间的车次有哪些？","output": Y801, 7002, C177}
+{"instruction": "K83次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在高架候车区东区候车、检票口为5A的列车有哪些？","output": "8356"}
+{"instruction": "从广州出发，终点站为宝鸡的列车在哪一站台发车？","output": "2"}
+{"instruction": "Y801次列车的始发站是哪里？","output": "潼关"}
+{"instruction": "检票口为7A且开点时间为20:00的车次有哪些？","output": "C177"}
+{"instruction": "到点时间介于20:00至20:15之间且站台为3的车次有哪些？","output": "Y801"}
+{"instruction": "C222次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、检票口为5B的列车有哪些？","output": "K1298 C222"}
+{"instruction": "OK366次列车从到达至开车所需时间是多少？","output": 11分钟}
+{"instruction": "K8206次列车的始发站是哪里？","output": "汉中"}
+{"instruction": "在高架候车区东区候车、且站台为2的列车有哪些？","output": "C235/4,C188"}
+{"instruction": "T118次列车从到点到开点停留了多久？","output": 9分钟}
+{"instruction": "K2045次列车的始发站是哪里？","output": "沈阳北"}
+{"instruction": "在综合候乘中心候车、发车时间晚于14:00的列车有哪些？","output": "K2045, D94, C202, C185"}
+{"instruction": "检票口为5B且开点时间缺失的车次有哪些？","output": "数据不完整"}
+{"instruction": "K177次列车的始发站是哪里？","output": "郑州"}
+{"instruction": "在高架候车区东区候车、开点时间晚于22:30的列车有哪些？","output": "K177 G665"}
+{"instruction": "从北京西到西安的列车中，哪趟开点时间最早？","output": "G665"}
+{"instruction": "C169次列车的检票口是哪里？","output": "9B"}
+{"instruction": "高架候车区东区，开点时间为16:40的列车有哪些？","output": "C169 C72"}
+{"instruction": "阳平关到韩城，站台为2的列车车次是什么？","output": "C241/4"}
+{"instruction": "D179次列车的始发站是哪里？","output": "鄂尔多斯"}
+{"instruction": "检票口为5B且开点时间晚于20:30的车次有哪些？","output": "Z166"}
+{"instruction": "K368次列车的检票口是哪里？","output": "8A"}
+{"instruction": "在综合候乘中心，发车时间晚于11:00且站台为5的列车有哪些？","output": "C221,8376"}
+{"instruction": "从长武到西安的列车中，哪趟最早到达西安？","output": "8376"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": D217 57002}
+{"instruction": "K1085次列车的始发站是哪里？","output": "长沙"}
+{"instruction": "高架候车区西区，到点时间介于05:00至05:30之间且站台为2的车次有哪些？","output": "K8165"}
+{"instruction": "K8165次列车在该站停留多久？","output": 16}
+{"instruction": "Z266次列车的始发站是哪里？","output": "拉萨"}
+{"instruction": "在高架候车区东区候车且检票口为7A或7B的列车有哪些？","output": "Z266, 0G659"}
+{"instruction": "Y810次列车在本站的停留时长是多久？","output": "11分钟"}
+{"instruction": "D217次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "没有符合条件的列车"}
+{"instruction": "检票口为5B且开点时间缺失的车次有哪些？","output": "数据不完整"}
+{"instruction": "C72次列车的始发站是哪里？","output": "韩城"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为9B的列车有哪些？","output": "C72"}
+{"instruction": "OT269次列车从西安到莲湖的开点时间是几点？","output": "16:35"}
+{"instruction": "发车时间晚于08:00且站台为4的列车有哪些？","output": "Z305"}
+{"instruction": "C229/32次列车的始发站是哪里？","output": "安康"}
+{"instruction": "在综合候乘中心候车、发车时间晚于09:40的列车有哪些？","output": "K84 D176"}
+{"instruction": "D176次列车在本站停留时长是多久？","output": 11}
+{"instruction": "T269次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间晚于22:00的列车有哪些？","output": "C166 K305"}
+{"instruction": "站台为5且检票口为1B的列车是哪趟？","output": "T269"}
+{"instruction": "C237次列车的始发站是哪里？","output": "安康"}
+{"instruction": "在高架候车区东区，且开点时间晚于16:30的列车有哪些？","output": "K559/8, G657"}
+{"instruction": "检票口为4A的列车是哪一班？","output": "C237"}
+{"instruction": "C161次列车的始发站是哪里？","output": "潼关"}
+{"instruction": "在综合候乘中心高架候车区东区、检票口为7A的列车有哪些？","output": "K557/60"}
+{"instruction": "到点时间介于12:00至13:00之间且站台为3的车次有哪些？","output": "K367"}
+{"instruction": "C237次列车的始发站是哪里？","output": "安康"}
+{"instruction": "在高架候车区东区候车、开点时间早于17:00的列车有哪些？","output": "C237,0T232,G657"}
+{"instruction": "K559/8次列车在车站停留时长是多少？","output": "20分钟"}
+{"instruction": "Z151次列车的检票口是哪个？","output": 2B}
+{"instruction": "在高架候车东区候车且开点时间早于04:00的列车有哪些？","output": 55516}
+{"instruction": "T113次列车从杭州到兰州的停留时长是多久？","output": 数据不完整}
+{"instruction": "C243/2次列车的站台是哪个？","output": "1"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "C243/2,C184,G658,8355"}
+{"instruction": "从西安到延安的列车中，哪趟开点时间最早？","output": "C184"}
+{"instruction": "D19次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "无"}
+{"instruction": "检票口为5B且站台为5的车次有哪些？","output": "D19,T41"}
+{"instruction": "K8205次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间晚于09:50的列车有哪些？","output": "K1042 D6857"}
+{"instruction": "K1042次列车在车站的停留时长是多久？","output": 8分钟}
+{"instruction": "Z106次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "在高架候车区东区候车、开点时间晚于21:20的列车有哪些？","output": "Z106 Z306"}
+{"instruction": "D124次列车在本站的停留时长是多久？","output": 11分钟}
+{"instruction": "C183次列车的始发站是哪里？","output": "西安"}
+{"instruction": "检票口为5B且开点时间在09:10至09:20之间的车次有哪些？","output": "C183, 0K213"}
+{"instruction": "K1310次列车从到站到开车停留多久？","output": "9分钟"}
+{"instruction": "T42次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为8A的列车有哪些？","output": "T42"}
+{"instruction": "D175次列车的终点站是哪里？","output": "西安"}
+{"instruction": "车次7008的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、开点时间晚于16:00的列车有哪些？","output": "K657/6, D177"}
+{"instruction": "K2046次列车从到站到开车之间的停留时长是多久？","output": 9分钟}
+{"instruction": "K1086次列车的始发站是哪里？","output": "银川"}
+{"instruction": "在高架候车区东区候车、且开点时间晚于19:00的列车有哪些？","output": "K1086,C197"}
+{"instruction": "C197次列车在站台几？","output": "5"}
+{"instruction": "C196次列车的检票口是哪里？","output": "7B"}
+{"instruction": "发车时间早于09:10且终点站为榆林的列车有哪些？","output": "C196"}
+{"instruction": "站台为5且开点时间在09:00至09:20之间的列车有哪些？","output": "C196,C162"}
+{"instruction": "C195次列车的检票口是哪里？","output": "8B"}
+{"instruction": "在综合候乘中心候车、发车时间晚于12:00的列车有哪些？","output": "C195 K557/60 C161"}
+{"instruction": "K557/60次列车在站内的停留时长是多久？","output": 25分钟}
+{"instruction": "G665次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在综合候乘中心高架候车区东区候车、开点时间晚于22:40的列车有哪些？","output": "D178 C200"}
+{"instruction": "K1309次列车从深圳东到西宁，在西安站停留多久？","output": 10分钟}
+{"instruction": "C174次列车的始发站是哪里？","output": "西安"}
+{"instruction": "检票口为2A且开点时间早于10:00的列车有哪些？","output": "C174"}
+{"instruction": "K214次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车，检票口为8B的列车有哪些？","output": "C195"}
+{"instruction": "从西安出发，终点站为天津的列车在哪一站台？","output": "4"}
+{"instruction": "K1042次列车的始发站是哪里？","output": "兰州"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为2B的列车有哪些？","output": "K1042"}
+{"instruction": "Z274次列车从到达至出发之间停留多久？","output": "11分钟"}
+{"instruction": "K5476次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、高架候车区东区且检票口为8B的列车有哪些？","output": "K5476"}
+{"instruction": "0T41次列车的检票口是哪里？","output": 8B}
+{"instruction": "在综合候乘中心高架候车区东区候车、开点时间介于17:40至18:00之间的列车有哪些？","output": 0T41,57108,0T248}
+{"instruction": "K520次列车从宝鸡到连云港东的终点站是哪里？","output": 连云港东}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": T117, 0T231, Y800}
+{"instruction": "G659次列车的始发站是哪里？","output": 北京西}
+{"instruction": "在高架候车区东区候车、检票口为8A的列车有哪些？","output": G659}
+{"instruction": "终点站为西安的列车，哪趟在21:00到达？","output": G659}
+{"instruction": "C197次列车的始发站是哪里？","output": "榆林"}
+{"instruction": "在高架候车区东区候车、检票口为5A的列车有哪些？","output": "K8206"}
+{"instruction": "从铜川东到安康的列车中，哪趟列车的开点时间最晚？","output": "C235/4"}
+{"instruction": "C173次列车的始发站是哪里？","output": 商洛北}
+{"instruction": "在高架候车区东区候车且检票口为5B的列车有哪些？","output": C173 K8168}
+{"instruction": "K8168次列车的停留时长是多少？","output": 18分钟}
+{"instruction": "C178次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心高架候车区东区候车、检票口为5B的列车有哪些？","output": "C173 K8168"}
+{"instruction": "K8168次列车从到点至开点停留多久？","output": "18分钟"}
+{"instruction": "C241/4次列车的始发站是哪里？","output": "阳平关"}
+{"instruction": "在高架候车区东区候车且开点时间晚于16:30的列车有哪些？","output": "C241/4,OT269"}
+{"instruction": "C237次列车从安康到西安的停留时长是多久？","output": "11分钟"}
+{"instruction": "D30次列车的始发站是哪里？","output": "兰州"}
+{"instruction": "从兰州到北京西的列车中，哪趟运行时间最短？","output": "D30"}
+{"instruction": "0T248次列车的始发站是哪里？","output": 三民村}
+{"instruction": "在高架候车区东区候车、检票口为7B的列车有哪些？","output": C164}
+{"instruction": "从乌鲁木齐到北京西的列车中，哪趟开点时间最晚？","output": Z180}
+{"instruction": "Z361次列车的始发站是哪里？","output": 南通}
+{"instruction": "在高架候车区东区候车，且开点时间早于06:00的列车有哪些？","output": K8203 C201}
+{"instruction": "C201次列车在本站的停留时长是多少？","output": 11分钟}
+{"instruction": "K2908次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、开点时间晚于21:50的列车有哪些？","output": "K2908 Z136"}
+{"instruction": "Z136次列车在该站停留时长是多久？","output": 12分钟}
+{"instruction": "Z378次列车的始发站是哪里？","output": "西宁"}
+{"instruction": "在综合候乘中心高架候车区东区候车、且开点时间早于21:00的列车有哪些？","output": "C165, 0T270"}
+{"instruction": "C165次列车在西安站停留时长是多久？","output": "11分钟"}
+{"instruction": "T269次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、检票口为1B的列车有哪些？","output": "T269"}
+{"instruction": "K305次列车的终点站是哪里？","output": "兰州"}
+{"instruction": "Z179次列车的检票口是哪里？","output": 2B}
+{"instruction": "在综合候乘中心，站台为5且开点时间晚于06:30的车次有哪些？","output": K306, T247}
+{"instruction": "T247次列车在兰州站的停留时长是多久？","output": 数据不完整}
+{"instruction": "Z274次列车的始发站是哪里？","output": "西宁"}
+{"instruction": "在高架候车区东区候车、开点时间晚于10:05的列车有哪些？","output": "Z274"}
+{"instruction": "K1042次列车在兰州站的停留时长是多久？","output": 8分钟}
+{"instruction": "T269次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车，且站台为5的列车有哪些？","output": "T269 C166"}
+{"instruction": "K305次列车的检票口是哪个？","output": "1A"}
+{"instruction": "G657次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在高架候车区东区候车、开点时间早于17:00的列车有哪些？","output": "G657 G666 T232"}
+{"instruction": "检票口为1B且站台为5的列车是哪趟？","output": "G657"}
+{"instruction": "K228次列车的检票口是哪个？","output": "7B"}
+{"instruction": "在综合候乘中心候车、发车时间晚于07:38的列车有哪些？","output": "K771/4"}
+{"instruction": "从兰州出发的列车中，哪趟列车的站台是2？","output": "K228"}
+{"instruction": "D178次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、检票口为9B的列车有哪些？","output": "D178"}
+{"instruction": "从西安出发，22:50之后发车的所有列车有哪些？","output": "D178, C200"}
+{"instruction": "C178次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心高架候车区东区候车、开点时间早于14:30的列车有哪些？","output": "C178 C231"}
+{"instruction": "K1350次与K468次列车共用哪个站台？","output": "5"}
+{"instruction": "Z293次列车的始发站是哪里？","output": "武昌"}
+{"instruction": "在综合候乘中心，高架候车区东区候车、站台为5的列车有哪些？","output": "K361 K306"}
+{"instruction": "K361次列车在上海站的停留时长是多久？","output": 27}
+{"instruction": "8351次列车的始发站是哪里？","output": 渭南}
+{"instruction": "在高架候车区东区候车、检票口为9B的列车有哪些？","output": 8351}
+{"instruction": "K228次列车的始发站是哪里？","output": "兰州"}
+{"instruction": "在综合候乘中心，到点时间介于07:00至07:30之间且站台为2的车次有哪些？","output": "K228,K771/4"}
+{"instruction": "Z105次列车从济南出发到达乌鲁木齐，在本站的停留时长是多久？","output": 9分钟}
+{"instruction": "C237次列车的始发站是哪里？","output": "安康"}
+{"instruction": "在高架候车区东区候车、检票口为5A的列车有哪些？","output": "0T232"}
+{"instruction": "Z231次列车的始发站是哪里？","output": "深圳东"}
+{"instruction": "在高架候车区东区候车、开点时间早于09:05的列车有哪些？","output": "D93 C196 C162"}
+{"instruction": "C162次列车从宝鸡到潼关的停留时长是多少？","output": 8分钟}
+{"instruction": "D217次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": D217}
+{"instruction": "从北京西到西安的列车中，哪趟到达时间为07:55？","output": D19}
+{"instruction": "C177次列车的检票口是哪个？","output": 7A}
+{"instruction": "在综合候乘中心候车、发车时间晚于19:59的列车有哪些？","output": C177, K1574, T42}
+{"instruction": "从西安到北京西的列车中，哪趟开点时间最早？","output": T42}
+{"instruction": "T232次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、开点时间晚于17:00的列车有哪些？","output": "T232,8375,0T41"}
+{"instruction": "从西安到北京西的列车中，哪趟开点时间最早？","output": "T232"}
+{"instruction": "G659次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在高架候车区东区候车、检票口为8A的列车有哪些？","output": "G659"}
+{"instruction": "到点时间晚于20:54的列车有哪些？","output": "G659 Z42"}
+{"instruction": "C231次列车的始发站是哪里？","output": "铜川东"}
+{"instruction": "在综合候乘中心候车、开点时间晚于14:00的列车有哪些？","output": "C231 K1350 K468"}
+{"instruction": "K1350次列车从到达至开车需要等待多久？","output": "9分钟"}
+{"instruction": "K367次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、检票口为2A的列车有哪些？","output": "K367"}
+{"instruction": "开点时间晚于12:30的列车有哪些？","output": "K557/60 C161"}
+{"instruction": "K362次列车的始发站是哪里？","output": "银川"}
+{"instruction": "在综合候乘中心候车、开点时间早于10:20的列车有哪些？","output": "K8205, D6857, K1042"}
+{"instruction": "K1042次列车在车站停留了多久？","output": 8分钟}
+{"instruction": "7008次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区，且开点时间早于16:30的列车有哪些？","output": "7008,K2046"}
+{"instruction": "K657/6次列车在本站的停留时长是多少？","output": 22分钟}
+{"instruction": "T41次列车的检票口是哪里？","output": "8B"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "K519"}
+{"instruction": "从连云港东到宝鸡的列车中，哪趟到达时间为08:09？","output": "K519"}
+{"instruction": "Z166次列车的始发站是哪里？","output": "拉萨"}
+{"instruction": "在高架候车区东区候车、检票口为5B的列车有哪些？","output": "D179 Z166"}
+{"instruction": "开点时间晚于20:30的列车有哪些？","output": "D44 Z166"}
+{"instruction": "D43次列车的始发站是哪里？","output": 北京西}
+{"instruction": "在高架候车区东区候车、开点时间早于08:20的列车有哪些？","output": 7006, D43}
+{"instruction": "站台为2且到点时间为08:23的列车车次是什么？","output": D43}
+{"instruction": "Z106次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "在高架候车区东区候车、检票口为5B的列车有哪些？","output": "Z106"}
+{"instruction": "K131次列车在深圳东站的到点时间是几点？","output": "数据不完整"}
+{"instruction": "发车时间晚于08:00且在综合候乘中心候车的列车有哪些？","output": K2188 T117}
+{"instruction": "Z273次列车的始发站是哪里？","output": "青岛北"}
+{"instruction": "在综合候乘中心候车、开点时间早于07:30的列车有哪些？","output": "57104 Z273"}
+{"instruction": "到点时间介于06:50至07:10之间且站台为3的车次有哪些？","output": "K2097/6"}
+{"instruction": "Z305次列车的始发站是哪里？","output": 上海}
+{"instruction": "在综合候乘中心候车、开点时间晚于08:50的列车有哪些？","output": Z231 D93}
+{"instruction": "从上海到西安的列车中，哪趟开车时间最早？","output": D93}
+{"instruction": "Y810次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在综合候乘中心高架候车区东区候车、开点时间早于22:00的列车有哪些？","output": "Y810, 0G659, K2908"}
+{"instruction": "K2908次列车从西安出发到达温州的开点时间是几点？","output": "21:53"}
+{"instruction": "D29次列车的站台是哪里？","output": "1"}
+{"instruction": "在高架候车东区候车、开点时间早于04:00的列车有哪些？","output": "D29 Z151 55516"}
+{"instruction": "从北京西到兰州的列车中，哪趟开点时间最早？","output": "D29"}
+{"instruction": "K367次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、开点时间晚于12:00且早于13:00的列车有哪些？","output": "K367 C195 K557/60 C161"}
+{"instruction": "K557/60次列车在本站停留时长是多久？","output": 25分钟}
+{"instruction": "K1349次列车的始发站是哪里？","output": "深圳"}
+{"instruction": "高架候车区东区检票口为7B的车次有哪些？","output": "K1349"}
+{"instruction": "到点时间晚于13:00且站台为2的车次有哪些？","output": "C186, C173"}
+{"instruction": "Z293次列车的始发站是哪里？","output": 武昌}
+{"instruction": "在综合候乘中心候车、检票口为9B的列车有哪些？","output": Z293}
+{"instruction": "K361次列车在上海站的停留时长是多久？","output": 27分钟}
+{"instruction": "0T248次列车的始发站是哪里？","output": "三民村"}
+{"instruction": "在高架候车区东区候车、检票口为8A的列车有哪些？","output": "0T248"}
+{"instruction": "Z135次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在高架候车区东区候车、开点时间早于08:00的列车有哪些？","output": "Z135,7001,K228"}
+{"instruction": "K228次列车在广州站的停留时长是多久？","output": 数据不完整}
+{"instruction": "C238次列车的始发站是哪里？","output": 西安}
+{"instruction": "在综合候乘中心候车、检票口为8B的列车有哪些？","output": C238}
+{"instruction": "K1086次列车的停留时长是多久？","output": 27分钟}
+{"instruction": "D217次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "无"}
+{"instruction": "从兰州到北京西的列车中，哪趟运行时间最短？","output": 数据不完整}
+{"instruction": "K8165次列车的始发站是哪里？","output": "榆林"}
+{"instruction": "在高架候车区西区候车、检票口为4A的列车有哪些？","output": "D123"}
+{"instruction": "K366次列车的停留时长是多久？","output": 11分钟}
+{"instruction": "8375次列车的检票口是哪里？","output": 2A}
+{"instruction": "在高架候车区东区候车、开点时间晚于17:40的列车有哪些？","output": K520,57108}
+{"instruction": "从西安到新丰镇的列车中，哪趟开点时间最晚？","output": 57108}
+{"instruction": "Z105次列车的始发站是哪里？","output": "济南"}
+{"instruction": "在高架候车区东区候车、站台为2的列车有哪些？","output": "K228"}
+{"instruction": "到点时间介于07:00至08:00之间且检票口为4A的车次有哪些？","output": "Z105"}
+{"instruction": "K8203次列车的始发站是哪里？","output": "府谷"}
+{"instruction": "在高架候车区东区候车、检票口为1A的列车有哪些？","output": "Z361"}
+{"instruction": "C201次列车从神木到西安的开点时间是什么时候？","output": 05:55}
+{"instruction": "C183次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、检票口为5B的列车有哪些？","output": "C183,0K213"}
+{"instruction": "从西安出发，终点站为宝鸡的列车开点时间是几点？","output": "09:11"}
+{"instruction": "K419次列车的始发站是哪里？","output": "扬州"}
+{"instruction": "在综合候乘中心候车、开点时间介于11:00至13:00之间的列车有哪些？","output": "K419, K1298, C222"}
+{"instruction": "检票口为5B且到点时间晚于12:00的列车有哪些？","output": "C222"}
+{"instruction": "D128次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、检票口为5A的列车有哪些？","output": "K8206"}
+{"instruction": "C235/4次列车在本站停留了多久？","output": 25分钟}
+{"instruction": "K1685次列车的始发站是哪里？","output": "乌海西"}
+{"instruction": "在综合候乘中心候车、站台为2的列车有哪些？","output": "C182"}
+{"instruction": "OG654次列车在西安动车段的开点时间是几点？","output": "07:06"}
+{"instruction": "发车时间晚于08:00且站台为1的列车有哪些？","output": "Z41"}
+{"instruction": "C161次列车的始发站是哪里？","output": "潼关"}
+{"instruction": "在高架候车区东区候车、检票口为8A的列车有哪些？","output": "K365"}
+{"instruction": "从深圳到西安的列车中，哪趟到点时间最晚？","output": "K1349"}
+{"instruction": "Z595次列车的检票口是哪里？","output": "2A"}
+{"instruction": "发车时间早于05:00的列车有哪些？","output": "Z595, Z127"}
+{"instruction": "K773/2次列车在站停留多长时间？","output": 53分钟}
+{"instruction": "K305次列车的始发站是哪里？","output": "温州"}
+{"instruction": "高架候车区东区，开点时间晚于22:30的列车有哪些？","output": K177}
+{"instruction": "K126次列车在站台几？","output": 5}
+{"instruction": "T231次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "检票口为8A且开点早于07:50的车次有哪些？","output": "0T247"}
+{"instruction": "在综合候乘中心、高架候车区东区候车，且站台为4的列车有哪些？","output": "T231"}
+{"instruction": "T307次列车的始发站是哪里？","output": "南昌"}
+{"instruction": "在综合候乘中心候车、开点时间晚于06:20的列车有哪些？","output": "K361,K306"}
+{"instruction": "从上海出发的列车中，哪趟的检票口是2A？","output": "K361"}
+{"instruction": "K1041次列车的始发站是哪里？","output": "宁波"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为8A的列车有哪些？","output": "C184"}
+{"instruction": "从西安到延安的列车中，哪趟列车的开点时间最早？","output": "C184"}
+{"instruction": "Z265次列车的检票口是哪里？","output": "9B"}
+{"instruction": "在综合候乘中心候车、发车时间晚于07:50的列车有哪些？","output": "G654"}
+{"instruction": "从西安到北京西的列车中，哪趟运行时间最短？","output": "数据不完整"}
+{"instruction": "Z105次列车的始发站是哪里？","output": "济南"}
+{"instruction": "在高架候车区东区候车、开点时间晚于07:30的列车有哪些？","output": "K228,Z105"}
+{"instruction": "到点时间介于07:20至07:40之间且站台为2的车次有哪些？","output": "K228"}
+{"instruction": "C243/2次列车的始发站是哪里？","output": "韩城"}
+{"instruction": "在综合候乘中心候车、高架候车区东区检票口为9B的列车有哪些？","output": "C243/2"}
+{"instruction": "开点时间晚于10:20且站台为5的列车有哪些？","output": "K1041"}
+{"instruction": "在综合候乘中心候车、发车时间晚于18:50的列车有哪些？","output": 0T42, C187, 57101, C238}
+{"instruction": "7001次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、检票口为8A的列车有哪些？","output": "7001"}
+{"instruction": "到点时间介于07:20至07:40之间且站台为5的车次有哪些？","output": "Z105"}
+{"instruction": "Z152次列车的终到站是哪里？","output": "北京西"}
+{"instruction": "C235/4次列车的始发站是哪里？","output": "铜川东"}
+{"instruction": "在综合候乘中心高架候车区东区候车、且检票口为5B的列车有哪些？","output": "C235/4,C188"}
+{"instruction": "T118次列车在车站的停留时长是多久？","output": 9分钟}
+{"instruction": "K1574次列车的检票口是哪个？","output": "9B"}
+{"instruction": "在综合候乘中心高架候车区东区候车、开点时间晚于20:20的列车有哪些？","output": "T42 T56"}
+{"instruction": "从西安出发的列车中，哪趟列车的发车时间最早？","output": "D219"}
+{"instruction": "Z265次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在综合候乘中心候车、站台为4的列车有哪些？","output": "T231"}
+{"instruction": "K771/4次列车在站内的停留时长是多久？","output": "22分钟"}
+{"instruction": "D217次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "数据不完整"}
+{"instruction": "从兰州到北京西的列车中，哪趟运行时间最短？","output": "数据不完整"}
+{"instruction": "C195次列车的始发站是哪里？","output": "榆林"}
+{"instruction": "在综合候乘中心候车、且检票口为8B的列车有哪些？","output": "C195"}
+{"instruction": "到点时间介于12:00至13:00之间且站台为2的车次有哪些？","output": "K557/60"}
+{"instruction": "K655/8次列车的始发站是哪里？","output": "呼和浩特东"}
+{"instruction": "检票口为7B且终点站为西安动车段的列车有哪些？","output": "0G659"}
+{"instruction": "Y810次列车在站台几？","output": "2"}
+{"instruction": "C178次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心高架候车区东区候车、开点时间晚于14:00的列车有哪些？","output": "C178 C231"}
+{"instruction": "从商南到西安的列车中，哪趟开点时间最早？","output": "7007"}
+{"instruction": "T41次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "K519"}
+{"instruction": "从西安到府谷的列车中，哪趟列车的开点时间最早？","output": "K8204"}
+{"instruction": "发车时间晚于17:30且站台为2的列车有哪些？","output": K520}  
+{"instruction": "从西安出发，终点站是三桥的列车在哪一站台出发？","output": 5}  
+{"instruction": "高架候车区东区检票口8B对应的车次是什么？","output": 0T41}
+{"instruction": "D124次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间早于21:30的列车有哪些？","output": "D124 Z106 Z306 K131"}
+{"instruction": "K131次列车在本站的停留时长是多久？","output": 9分钟}
+{"instruction": "Z274次列车的始发站是哪里？","output": "西宁"}
+{"instruction": "在综合候乘中心高架候车区东区、检票口为3B的列车有哪些？","output": "Z274"}
+{"instruction": "C181次列车的到点时间是几点？","output": "10:19"}
+{"instruction": "G659次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为8A的列车有哪些？","output": "G659"}
+{"instruction": "哪趟列车在21:00到达西安？","output": "G659"}
+{"instruction": "K4545/8次列车的始发站是哪里？","output": "佳木斯"}
+{"instruction": "在高架候车区东区候车、检票口为7A的列车有哪些？","output": "T307"}
+{"instruction": "到点时间介于06:00至06:15之间的车次有哪些？","output": "K4545/8, C201"}
+{"instruction": "C161次列车的始发站是哪里？","output": 潼关}
+{"instruction": "在高架候车区东区候车、站台为2的列车有哪些？","output": K557/60}
+{"instruction": "K367次列车从西安到敦煌的开点时间是几点？","output": 12:15}
+{"instruction": "T231次列车的检票口是哪个？","output": 5B}
+{"instruction": "在综合候乘中心候车、发车时间晚于07:30的列车有哪些？","output": K771/4, Z265}
+{"instruction": "站台为3且开点时间早于08:00的车次有哪些？","output": Z265}
+{"instruction": "C202次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、站台为3的列车有哪些？","output": "C185"}
+{"instruction": "检票口为5A且终点站为神木的车次有哪些？","output": "C202"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "Z305 D220 Z231"}
+{"instruction": "K771/4次列车的始发站是哪里？","output": 呼和浩特}
+{"instruction": "在综合候乘中心，高架候车区东区候车、检票口为5A或5B的列车有哪些？","output": K771/4,T231}
+{"instruction": "到点时间介于07:20至08:00之间且站台为2的车次有哪些？","output": K771/4}
+{"instruction": "Y809次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、发车时间晚于10:00的列车有哪些？","output": "Y809, C181"}
+{"instruction": "C181次列车在哪一站台出发？","output": "2"}
+{"instruction": "K657/6次列车的站台是哪个？","output": "5"}
+{"instruction": "在高架候车区东区候车、开点时间晚于16:00的列车有哪些？","output": "K657/6, D177, C169"}
+{"instruction": "C169次列车在站内的停留时长是多久？","output": 22}
+{"instruction": "Z152次列车的终到站是哪里？","output": "北京西"}
+{"instruction": "从兰州到北京西的列车中，哪趟运行时间最短？","output": "D30"}
+{"instruction": "检票口为5B且开点时间缺失的车次有哪些？","output": "数据不完整"}
+{"instruction": "K361次列车的始发站是哪里？","output": 上海}
+{"instruction": "在综合候乘中心，高架候车区东区候车、且站台为5的列车有哪些？","output": K361 K306}
+{"instruction": "Z293次列车从到达至离开的时间间隔是多久？","output": 8分钟}
+{"instruction": "K8162次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间晚于08:30的列车有哪些？","output": "T117 0T231"}
+{"instruction": "从西安到延安的列车中，哪趟开点时间最早？","output": "K8162"}
+{"instruction": "K1309次列车的始发站是哪里？","output": "深圳东"}
+{"instruction": "在高架候车区东区候车、开点时间晚于23:06的列车有哪些？","output": "K1309 K1686 T114"}
+{"instruction": "K132次列车在深圳东站的停留时长是多久？","output": 数据不完整}
+{"instruction": "D6857次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、检票口为1A的列车有哪些？","output": "D6857"}
+{"instruction": "从西安到宝鸡，开点时间是10:14的列车是哪趟？","output": "Y809"}
+{"instruction": "发车时间晚于08:00且在高架候车区东区候车的列车有哪些？","output": Z41 D43}
+{"instruction": "K177次列车的检票口是哪个？","output": "2A"}
+{"instruction": "在高架候车区东区候车，且站台为2的列车有哪些？","output": "K177 G665"}
+{"instruction": "D178次列车的始发站是哪里？","output": "西安"}
+{"instruction": "D123次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在高架候车区西区候车、站台为5的列车有哪些？","output": "D123 K366"}
+{"instruction": "K2095/8次列车的开点时间若延误1小时15分钟，新的开点时间是几点？","output": 07:06}
+{"instruction": "C182次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、站台为5的列车有哪些？","output": "OG654 Z135"}
+{"instruction": "到点时间介于07:00至07:30之间且检票口为9B的车次有哪些？","output": "Z135"}
+{"instruction": "K5475次列车的始发站是哪里？","output": "神木"}
+{"instruction": "在高架候车区东区候车、站台为5的列车有哪些？","output": "7008 K657/6"}
+{"instruction": "K2046次列车从西安出发到沈阳北的时间间隔是多少？","output": 11分钟}
+{"instruction": "C72次列车的始发站是哪里？","output": "韩城"}
+{"instruction": "在综合候乘中心候车、发车时间晚于16:30的列车有哪些？","output": "C72, C241/4, OT269"}
+{"instruction": "C237次列车从安康到西安的停留时长是多久？","output": 11分钟}
+{"instruction": "C187次列车的始发站是哪里？","output": "延安"}
+{"instruction": "在高架候车区东区候车、检票口为8B的列车有哪些？","output": "C238"}
+{"instruction": "从榆林到西安的列车中，哪趟到达时间最早？","output": "7005"}
+{"instruction": "K125次列车的始发站是哪里？","output": "长春"}
+{"instruction": "检票口为8B且开点时间在20:50之后的车次有哪些？","output": "K5476"}
+{"instruction": "Z378次列车从西宁出发到达上海的时间是多少？","output": "20:50"}
+{"instruction": "Z231次列车的检票口是哪个？","output": "9B"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "Z231 C196 C162"}
+{"instruction": "从上海到西安，站台为2的车次是哪一班？","output": "D93"}
+{"instruction": "Z273次列车的始发站是哪里？","output": "青岛北"}
+{"instruction": "在综合候乘中心候车、发车时间晚于07:15的列车有哪些？","output": "K2097/6"}
+{"instruction": "从乌海西到宝鸡的列车中，哪趟开点时间最早？","output": "K1685"}
+{"instruction": "D178次列车的检票口是哪里？","output": "9B"}
+{"instruction": "在高架候车区东区候车、开点时间介于22:47至23:06之间的列车有哪些？","output": "D178,C200,K132"}
+{"instruction": "K1309次列车的停留时长是多久？","output": 10}
+{"instruction": "D29次列车的检票口是哪里？","output": "9B"}
+{"instruction": "站台为2且终点站为西宁的车次有哪些？","output": "Z151"}
+{"instruction": "03:50开点的列车是从哪个站始发的？","output": "北京西"}
+{"instruction": "K657/6次列车的始发站是哪里？","output": "杭州"}
+{"instruction": "在高架候车区东区候车、检票口为8B的列车有哪些？","output": "K2046"}
+{"instruction": "D177次列车的到点时间是什么时候？","output": "16:24"}
+{"instruction": "G654次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "D217"}
+{"instruction": "从兰州到北京西的列车中，哪趟运行时间最短？","output": 数据不完整}
+{"instruction": "K2908次列车的始发站是哪里？","output": "西安"}
+{"instruction": "检票口为5A且站台为1的车次有哪些？","output": "K8161"}
+{"instruction": "开点时间晚于22:00的车次有哪些？","output": "Z136 T269"}
+{"instruction": "K2046次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、站台为5的列车有哪些？","output": "C169 C72"}
+{"instruction": "T198次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "哪个车次是在综合候乘中心高架候车区西区候车且开点时间早于02:00？","output": "T198 Z596"}
+{"instruction": "Z152次列车停靠在哪个站台？","output": "4"}
+{"instruction": "D6852次列车的始发站是哪里？","output": "汉中"}
+{"instruction": "在高架候车区东区候车、检票口为7A的列车有哪些？","output": "K84"}
+{"instruction": "C229/32次列车从安康到铜川东，在西安站停留多长时间？","output": "数据不完整"}
+{"instruction": "Z266次列车的始发站是哪里？","output": "拉萨"}
+{"instruction": "在综合候乘中心候车、检票口为7A的列车有哪些？","output": "Z266"}
+{"instruction": "Y810次列车在本站的停留时长是多久？","output": 11}
+{"instruction": "Z135次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在综合候乘中心候车、站台为5的列车有哪些？","output": "Z135 Z105"}
+{"instruction": "K228次列车在广州站的停留时长是多久？","output": "13分钟"}
+{"instruction": "K1349次列车的始发站是哪里？","output": "深圳"}
+{"instruction": "高架候车区东区，且开点时间介于12:50至13:20之间的车次有哪些？","output": "K1349 C186 K467"}
+{"instruction": "K467次列车在深圳站停留多久？","output": "数据不完整"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": Z41, D43}
+{"instruction": "车次7007的始发站是哪里？","output": "商南"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为1B的列车有哪些？","output": "7007 C178"}
+{"instruction": "到点时间晚于13:40且开点时间早于14:05的列车有哪些？","output": "7007 K8168"}
+{"instruction": "K125次列车的始发站是哪里？","output": "长春"}
+{"instruction": "在综合候乘中心候车、开点时间晚于20:40的列车有哪些？","output": "Z378, K5476"}
+{"instruction": "C165次列车的停留时长是多久？","output": 11}
+{"instruction": "C184次列车的检票口是哪个？","output": 8A}
+{"instruction": "在综合候乘中心高架候车区东区，发往延安方向的列车有哪些？","output": C184}
+{"instruction": "站台为2且开点时间为10:39的列车有哪些？","output": C184, 8355}
+{"instruction": "C187次列车的始发站是哪里？","output": "延安"}
+{"instruction": "在综合候乘中心候车、发车时间晚于19:00的列车有哪些？","output": "C187 C238"}
+{"instruction": "从西安到安康，检票口为8B的是哪趟列车？","output": "C238"}
+{"instruction": "K367次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心高架候车区东区候车、且开点时间晚于12:00的列车有哪些？","output": "K367 C195 K557/60"}
+{"instruction": "从榆林到西安的列车中，哪趟开点时间最早？","output": "C195"}
+{"instruction": "K655/8次列车的始发站是哪里？","output": 呼和浩特东}
+{"instruction": "在高架候车区东区，检票口为9B的列车有哪些？","output": K655/8}
+{"instruction": "K2908次列车从西安出发到温州的开点时间是几点？","output": 21:53}
+{"instruction": "K559/8次列车的始发站是哪里？","output": 延安}
+{"instruction": "在综合候乘中心候车、且检票口为5B的列车有哪些？","output": K559/8,G666}
+{"instruction": "开点时间晚于17:00的列车有哪些？","output": K559/8,T232}
+{"instruction": "C201次列车的始发站是哪里？","output": "神木"}
+{"instruction": "在综合候乘中心候车、站台为4的列车有哪些？","output": "K4545/8"}
+{"instruction": "OK365次列车从到达至开车的时间间隔是多少？","output": 11分钟}
+{"instruction": "K4545/8次列车的始发站是哪里？","output": "佳木斯"}
+{"instruction": "在综合候乘中心，到点时间介于06:00至08:00之间且站台为4的车次有哪些？","output": "K4545/8"}
+{"instruction": "C222次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在高架候车区东区候车、开点时间早于12:00的列车有哪些？","output": "OK366 C222 K214"}
+{"instruction": "K214次列车的检票口是哪个？","output": "1A"}
+{"instruction": "0T41次列车的始发站是哪里？","output": 西安}
+{"instruction": "在综合候乘中心候车、开点时间晚于17:40的列车有哪些？","output": K520,57108}
+{"instruction": "从西安出发的列车中，哪趟开点时间最早？","output": 0T41}
+{"instruction": "D177次列车的始发站是哪里？","output": "呼和浩特东"}
+{"instruction": "检票口为9B且站台为5的车次有哪些？","output": "C169,C72"}
+{"instruction": "到点时间晚于16:00且开点时间早于17:00的车次有哪些？","output": "D177,C169,C72"}
+{"instruction": "D175次列车的始发站是哪里？","output": "达州"}
+{"instruction": "在高架候车区东区候车且检票口为4A的列车有哪些？","output": "D219"}
+{"instruction": "站台为1且开点时间晚于20:20的列车有哪些？","output": "T56"}
+{"instruction": "Y810次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在高架候车区东区候车，且开点时间介于21:30至22:00之间的列车有哪些？","output": "Y810, 0G659, K2908"}
+{"instruction": "K2908次列车在哪一站台发车？","output": "3"}
+{"instruction": "K655/8次列车的始发站是哪里？","output": "呼和浩特东"}
+{"instruction": "高架候车区东区检票且站台为2的车次有哪些？","output": "Y810"}
+{"instruction": "0G659次列车在西安停留时长是多久？","output": "11分钟"}
+{"instruction": "Z179次列车的始发站是哪里？","output": 北京西}
+{"instruction": "在综合候乘中心，高架候车区东区，且检票口为2B的列车有哪些？","output": Z179}
+{"instruction": "到点时间介于06:00至08:00之间且站台为2的车次有哪些？","output": Z179,57104}
+{"instruction": "Z274次列车的始发站是哪里？","output": "西宁"}
+{"instruction": "在高架候车区东区候车且检票口为3B的列车有哪些？","output": "Z274"}
+{"instruction": "Y809次列车在站台几停靠？","output": "3"}
+{"instruction": "G666次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心候车、开点时间晚于17:25的列车有哪些？","output": "T232,8375,0T41"}
+{"instruction": "从西安到北京西的列车中，哪趟列车最晚出发？","output": "T232"}
+{"instruction": "Z42次列车的始发站是哪里？","output": 乌鲁木齐}
+{"instruction": "在综合候乘中心候车、高架候车区东区、检票口为7B的列车有哪些？","output": Z42}
+{"instruction": "K83次列车在该站停留多久？","output": 8分钟}
+{"instruction": "从广州出发，终点站是拉萨的列车在哪一站台？","output": "3"}
+{"instruction": "在综合候乘中心候车、发车时间晚于07:50的列车有哪些？","output": "Z265, 0T247"}
+{"instruction": "检票口为9B且开点时间缺失的车次有哪些？","output": "数据不完整"}
+{"instruction": "C166次列车的始发站是哪里？","output": "宝鸡"}
+{"instruction": "在高架候车区东区候车、开点时间晚于22:30的列车有哪些？","output": "K305 K177"}
+{"instruction": "检票口为5B且站台为5的车次有哪些？","output": "C166"}
+{"instruction": "K773/2次列车的终点站是哪里？","output": "呼和浩特"}
+{"instruction": "检票口为3A且始发站为上海的列车车次是什么？","output": "Z377"}
+{"instruction": "在高架候车区西区候车、开点时间早于05:15的列车有哪些？","output": "Z377"}
+{"instruction": "车次7002的始发站是哪里？","output": "韩城"}
+{"instruction": "在高架候车区东区且开点时间晚于19:59的列车有哪些？","output": "C177,K1574"}
+{"instruction": "站台为5且终点站不是西安的列车车次是什么？","output": "K1574"}
+{"instruction": "Z362次列车的始发站是哪里？","output": "乌鲁木齐"}
+{"instruction": "高架候车区西区检票口为2A的列车有哪些？","output": "D218"}
+{"instruction": "从兰州出发，终点站为上海的列车，在00:42到站的是哪一趟？","output": "D218"}
+{"instruction": "C236次列车的检票口是哪里？","output": 8A}
+{"instruction": "在综合候乘中心高架候车区东区候车、站台为2的列车有哪些？","output": C236, D94}
+{"instruction": "K2045次列车的始发站是哪里？","output": 沈阳北}
+{"instruction": "G657次列车的始发站是哪里？","output": "北京西"}
+{"instruction": "在高架候车区东区候车、检票口为1B的列车有哪些？","output": "G657"}
+{"instruction": "开点时间晚于16:40且终点站为西安的列车有哪些？","output": "G657"}
+{"instruction": "7007次列车的始发站是哪里？","output": "商南"}
+{"instruction": "在高架候车区东区候车、开点时间早于14:00的列车有哪些？","output": "7007 K8168"}
+{"instruction": "C178次列车从西安出发到商南的开点时间是几点？","output": 14:00}
+{"instruction": "K126次列车的始发站是哪里？","output": "西安"}
+{"instruction": "在综合候乘中心高架候车区东区，检票口为8B的列车有哪些？","output": "K126"}
+{"instruction": "从西安出发的列车中，哪趟列车的开点时间最早？","output": "G665"}
+{"instruction": "K467次列车的始发站是哪里？","output": "宁波"}
+{"instruction": "在高架候车区东区候车、开点时间晚于13:00的列车有哪些？","output": "K467 C173 7007"}
+{"instruction": "站台为5且终点站为西安的车次有哪些？","output": "K467"}

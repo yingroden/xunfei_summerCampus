@@ -16,18 +16,19 @@ MODEL_CONFIGS = {
     },
     "deepseek":{
         "base_url":"https://api.deepseek.com",
-        "api_key":"sk-xxx",
+        "api_key":"sk-6eefc810cffc464782115a242d356b7f",
         "chat_model":"deepseek-chat",
     },
     "qwen": {
         "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-        "api_key": "sk-xxx",
+        "api_key": "sk-219b35d688eb40e2aeec7dd0aae84bda",
         "chat_model": "qwen-max",
     }
 }
 
 DEFAULT_MODEL = "ollama"
 DEFAULT_TEMPERATURE = 0.7
+
 
 def init_model(llm_type) -> ChatOpenAI:
     config = MODEL_CONFIGS[llm_type]
