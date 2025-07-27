@@ -68,7 +68,7 @@ def call_llm(content: str):
         ]
     }
     headers = {
-        "Authorization": "Bearer sk-gojsqvvtdtbavxuibdkajzxugwnipdngoiqdlsjmlrsygtvi", # 替换自己的api token
+        "Authorization": "Bearer sk-xxx", # 替换自己的api token
         "Content-Type": "application/json"
     }
     resp = requests.request("POST", url, json=payload, headers=headers).json()
