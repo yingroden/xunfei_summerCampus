@@ -1,0 +1,6 @@
+{"instruction": "Z265次列车的始发站是哪里？","output": "广州"}
+{"instruction": "在综合候乘中心，高架候车区东区候车且站台为4的车次有哪些？","output": "T231"}
+{"instruction": "K771/4次列车从呼和浩特到杭州的开点时间是几点？","output": 07:51}
+{"instruction": "D93次列车的始发站是哪里？","output": "上海"}
+{"instruction": "在综合候乘中心候车、发车时间晚于08:00的列车有哪些？","output": "C196, C162"}
+{"instruction": "从宝鸡到潼关的列车中，哪趟的开点最晚？","output": "C162"}
